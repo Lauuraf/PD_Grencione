@@ -9,7 +9,7 @@
 #4 Donovs Emīls Niks
 
 #5 Feldmane Laura
-
+print(cos(radians(60)+fmod(15,2)))
 #6 Karpoviča Zlata
 
 #7 Kļimova Anna
